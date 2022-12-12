@@ -57,6 +57,10 @@
     &:hover {
       box-shadow: 1px 1px 15px #c4c4c4;
     }
+
+    @media (max-width: 900px) {
+      margin-left: 0;
+    }
   }
 
   &__offer-top {
